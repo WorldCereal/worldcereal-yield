@@ -24,7 +24,7 @@ Repository for WorldCereal yield prediction work.
    jupyter notebook
    ```
 
-**Notebook Overview (Upload Workflow)**
+**Notebook Overview**
 The notebook `Ukraine/ARYA_Ukraine.ipynb` contains the workflow for preparing and uploading yield-related data. At a high level it:
 - Loads and inspects the input data.
 - Performs preprocessing and feature preparation.
