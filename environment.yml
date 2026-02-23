@@ -1,0 +1,22 @@
+name: arya_openeo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - xarray
+  - ipython
+  - jupyter
+  - netcdf4
+  - gdal
+  - scikit-image
+  - lmfit
+  - scikit-learn
+  - seaborn
+  - geopandas
+  - rioxarray
+  - rasterio
+  - openeo
+  - spectral
+  - pyproj
+  - pip
